@@ -1,6 +1,6 @@
 
 # Banco ABC
-O projato é uma iniciativa do Banco ABC para conhecer melhor seu negócio e seus clientes. 
+O projeto é uma iniciativa do Banco ABC para conhecer melhor seu negócio e seus clientes. 
 Ele pretende conhecer as características dos clientes, quais tem mais chances de continuar ou sair, e também tentar prever 
 esse acontecimento.
 
