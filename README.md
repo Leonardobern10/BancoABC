@@ -5,7 +5,7 @@ Ele pretende conhecer as características dos clientes, quais tem mais chances d
 esse acontecimento.
 
 ## Sobre a empresa
-O Bando ABC é um banco fictício que está tentando entender o comportamento de seus cliente, 
+O Banco ABC é um banco fictício que está tentando entender o comportamento de seus cliente, 
 principalmente aqueles com uma fidelidade mais duradoura.
 
 ## Sobre mim
@@ -24,7 +24,7 @@ O processo foi dividido em partes e estão relacionadas abaixo:
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de leonardo.bernardo2658@hmail.com
+Se você tiver algum feedback, por favor nos deixe saber por meio de leonardo.bernardo2658@hmail.com, será sempre uma grande satisfação poder trocar conhecimentos.
 
 
 ## Links
